@@ -1,1 +1,3 @@
-ejercicios de tecnicas de produccion
+ejercicios de técnicas de producción
+
+Ejercicio 2
